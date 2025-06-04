@@ -5,6 +5,6 @@ General Skills (Easy) - Big Zip
   - Link : https://ahmedheltaher.github.io/ctf-writeups/sites/picoCTF/General-Skills/Big-Zip.html
 
 General Skills (Easy) - Blame Game
- * Hints : git
+ * Hints : git log git log OR git help
   - Link : https://github.com/noamgariani11/picoCTF-2024-Writeup/blob/main/General%20Skills/Blame-Game.md
 
