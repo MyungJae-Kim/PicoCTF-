@@ -2,6 +2,7 @@
 
 General Skills (Easy) - Big Zip
   * Hints : grep
+  * Reason : grep 명령어의 용도를 공부하였으나 까먹었고, 사용이 익숙하지 않다.
     - Link : https://ahmedheltaher.github.io/ctf-writeups/sites/picoCTF/General-Skills/Big-Zip.html
 
 General Skills (Easy) - Blame Game
@@ -11,3 +12,7 @@ General Skills (Easy) - Blame Game
 Forensics (Easy) - Can You See
   * Hints : exiftool, base64
     - Link : https://github.com/noamgariani11/picoCTF-2024-Writeup/blob/main/Forensics/CanYouSee.md
+
+General Skills - Commitment Issues
+  * Hints : Git Commit
+    - Link : https://github.com/noamgariani11/picoCTF-2024-Writeup/tree/main
