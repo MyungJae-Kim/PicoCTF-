@@ -19,3 +19,8 @@ General Skills - Commitment Issues
   * Hints : Git Commit
   * Reason : Git Commit 명령어를 잘 들여다보지 않았었다. 그렇기에 사용에 익숙치 않았다.
     - Link : https://github.com/noamgariani11/picoCTF-2024-Writeup/tree/main
+
+Crypto Graphy - interencdec
+  * Hints : b' 삭제
+  * Reason : 무언가 삭제되거나 더해야 암호화를 풀 수 있을거란 발상을 하지 않았었다.
+    - Link : https://github.com/noamgariani11/picoCTF-2024-Writeup/blob/main/Cryptography/interencdec.md
