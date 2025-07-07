@@ -34,3 +34,8 @@ Forensics - Ph4nt0m 1ntrud3r
   * Hints  : strings, Base64
   * Reason : 생소한 형식의 문제였다.
     - Link : https://www.youtube.com/watch?v=oJTkU3oke7Q
+
+Forensics - RED
+  * Hints  : zsteg
+  * Reason : zsteg 라는 이미지를 분석해 숨겨진 형식의 데이터나 정보를 추출하는 방식이 있다는 걸 배웠다. -> 스테가노그래피
+    - Link : https://medium.com/@erichdryn/red-picoctf-writeup-515376dc78c2
